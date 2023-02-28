@@ -1,3 +1,3 @@
 ![nslookup](pictures/nslookup.png)
 
-asdad
+с помощью nslookup узнаем А записи и Mx записи 
