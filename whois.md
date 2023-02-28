@@ -1,3 +1,3 @@
 ![whoise](pictures/whois.png)
 
-игорь обезьяна
+С помощью whois узнаем дату регистрации домена kubsu.ru и kubsu-dev.ru
