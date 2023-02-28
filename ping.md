@@ -1,1 +1,1 @@
-![ping](back1/pictures/ping.png)
+![ping](pictures/ping.png)
